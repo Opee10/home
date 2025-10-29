@@ -1,6 +1,6 @@
 ## 👋 Biography
 
-I’m a passionate Software Engineer specializing in **AI/ML**, currently working on text processing and recommendation system projects. Alongside my engineering work, I serve as a Research Assistant, contributing to AI-driven research, particularly in healthcare, agentic AI, IoT, and data privacy. **I am seeking a PhD opportunity in Computer Science for Fall 2026** in a competitive environment, where I can further advance AI research and make meaningful contributions to the field.
+I’m a passionate Software Engineer specializing in **AI/ML**, currently working on text processing and recommendation system projects. Alongside my engineering work, I serve as a Research Assistant, contributing to AI-driven research, particularly in healthcare, agentic AI, IoT, and data privacy. Looking ahead, I am focused on securing a **PhD position in Computer Science for Fall 2026** in a competitive program to expand my work, drive further AI research, and contribute meaningfully to the discipline.
 
 ---
 
