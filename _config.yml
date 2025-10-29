@@ -1,3 +1,14 @@
-title: Shafiul Opee
-logo: /opeepic/opeeimage.JPEG
-theme: jekyll-theme-minimal
+title: Shafiul Ajam Opee
+description: Software Engineer (AI/ML)
+theme: orderedlist
+
+# Contact Information
+email: opee.cse@gmail.com
+github_username: Opee10
+linkedin_username: shafiul-opee # Replace with your actual LinkedIn username
+google_scholar_url: # Insert your Google Scholar URL here
+location: Dhaka, Bangladesh
+
+# --- Configuration to clean up the navigation ---
+# Set to false to disable the site's default link display (like "View the Project on GitHub")
+show_downloads: false
