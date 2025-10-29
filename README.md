@@ -46,7 +46,7 @@ I’m a passionate Software Engineer specializing in **AI/ML**, currently workin
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C++, R, Java, PHP, MATLAB, SQL |
-| **ML Frameworks** | TensorFlow, PyTorch, Keras, Pandas, NumPy, Seaborn |
+| **ML Frameworks** | TensorFlow, PyTorch, Keras, Pandas, NumPy, Seaborn, Scikit-learn |
 | **NLP** | NLTK, spaCy, TF-IDF, VADER, Tokenization, FastAPI |
 | **Tools & Testing** | Linux, GitHub, LaTeX, Selenium, JMeter, Postman, Requirement Analysis |
 
@@ -56,9 +56,13 @@ I’m a passionate Software Engineer specializing in **AI/ML**, currently workin
 
 💼 **October 2025** – Secured a Software Engineer (AI/ML) position at TechnoNext Software Limited.  
 
-🎉 **October 2025** – Submitted our paper *"Posture Detection: A Survey of Machine Learning and Deep Learning Approaches, Challenges, and Future Directions"* to *Healthcare Analytics*.  
+🔔 **October 2025** – Submitted our paper *"Posture Detection: A Survey of Machine Learning and Deep Learning Approaches, Challenges, and Future Directions"* to *Healthcare Analytics*.  
+
+🔔 **September 2025** - I am leading a research project on healthcare data privacy, tentative title : *“Privacy-Preserving Intelligence: Advance ments and Applications of Federated Learning in Healthcare Systems"*
 
 🎉 **22 August 2025** – Our book chapter *"Automated Plant Diseases Analysis Using Lightweight Deep Learning Models"* was published online in *Studies in Computational Intelligence (SCI, Volume 1202)*, Springer Nature.  
+
+🔔 **May 2025** - Our team started a research project, tentative title : *“Towards Trustworthy Diabetic Retinopathy Detection: Multi-Dataset Training with HRDG-Net and Attention-Based Explainability."*
 
 🎉 **12 May 2025** – Published our research paper *"A Transformer and Graph-based Multi-Task Learning for Optimized Decision-Making in Chronic Kidney Disease Management"* in the International Conference on Intelligent Computing and Control Systems (ICICCS).  
 
