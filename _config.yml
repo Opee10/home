@@ -3,3 +3,39 @@ logo: opeepic/opeeimg.JPEG
 description: Software Engineer (AI/ML) 
 description: 📩 opee.cse@gmail.com
 theme: jekyll-theme-minimal
+# Basic configuration
+title: Opee10
+logo: /assets/img/your-profile-picture.jpg # Replace with the actual path to your profile picture
+description: > # your bio or tagline
+  PhD Candidate | Researcher | Computer Scientist 
+  
+  # Add a short bio here if you wish
+
+# Theme settings - Do not change
+remote_theme: jekyll-theme-minimal
+
+# Navigation links for the sidebar (The 'minimal' theme displays these as text in the left sidebar)
+# The theme uses the 'github:' section to display the links that appear under your name/pic.
+
+github:
+  owner_name: Opee10
+  owner_url: https://github.com/Opee10
+  
+# Adding the Links
+# The 'minimal' theme uses the 'show_downloads' flag to enable the sidebar links.
+# These will appear under the "View My GitHub Profile" link.
+show_downloads: false
+
+# Define your other links to display
+# We'll use the jekyll-theme-minimal's feature to add extra links here.
+# Note: This is an undocumented feature of the 'minimal' theme often achieved by overriding a layout.
+# For simplicity, we'll try adding a custom 'navigation' section, which some variants of minimal might support, 
+# or you can directly modify the theme's layout file (see notes below).
+# The simplest approach is to modify the default Jekyll Page configuration.
+
+# Let's try adding a simple 'contact_links' section - this requires a custom layout file
+# but we will try to leverage the existing fields first.
+
+# The location and email are often standard fields in the sidebar that you can set in your GitHub Profile settings.
+# The 'minimal' theme usually pulls the name, location, and bio from your *GitHub user profile* itself,
+# but for the explicit links you want, you may need to override the theme's `_layouts/default.html` file.
