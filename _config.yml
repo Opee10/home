@@ -1,13 +1,11 @@
 title: Shafiul Ajam Opee
 description: Software Engineer (AI/ML)
-theme: jekyll-theme-minimal
-
-# Contact Information
 email: opee.cse@gmail.com
 github_username: Opee10
 linkedin_username: shafiul-opee # Replace with your actual LinkedIn username
 google_scholar_url: # Insert your Google Scholar URL here
 location: Dhaka, Bangladesh
+theme: jekyll-theme-minimal
 
 # --- Configuration to clean up the navigation ---
 # Set to false to disable the site's default link display (like "View the Project on GitHub")
