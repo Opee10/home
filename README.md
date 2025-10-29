@@ -1,7 +1,7 @@
 # Software Engineer (AI/ML)
 
-###Education 
+### Education 
 PhD in CS
 
-###Research Experience 
+### Research Experience 
 blah blah 
