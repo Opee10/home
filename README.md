@@ -56,7 +56,7 @@ I’m a passionate Software Engineer specializing in **AI/ML**, currently workin
 
 💼 **October 2025** – Secured a Software Engineer (AI/ML) position at TechnoNext Software Limited.  
 
-✔ **October 2025** – Submitted our paper *"Posture Detection: A Survey of Machine Learning and Deep Learning Approaches, Challenges, and Future Directions"* to *Healthcare Analytics*.  
+✔ **October 2025** – Submitted our paper *"Posture Detection: A Survey of Machine Learning and Deep Learning Approaches, Challenges, and Future Directions"* to *IEEE Open Journal of the Computer Society*.  
 
 🔔 **September 2025** - I am leading a research project on healthcare data privacy, tentative title : *“Privacy-Preserving Intelligence: Advance ments and Applications of Federated Learning in Healthcare Systems"*
 
