@@ -1,6 +1,6 @@
 ## 👋 Biography
 
-I’m a passionate Software Engineer specializing in **AI/ML**, currently working on text processing and recommendation system projects. Alongside my engineering work, I serve as a Research Assistant, contributing to AI-driven research, particularly in healthcare, agentic AI, IoT, and data privacy. Looking ahead, I am focused on securing a **PhD position in Computer Science for Fall 2026** in a competitive program to expand my work, drive further AI research, and contribute meaningfully to the discipline.
+I’m a passionate Software Engineer specializing in **AI/ML**, currently working on text processing and recommendation system projects. Alongside my engineering work, I serve as a Research Assistant, contributing to AI-driven research, particularly in healthcare, data privacy, agentic AI, and IoT. Looking ahead, I am focused on securing a **PhD position in Computer Science for Fall 2026** in a competitive program to expand my work, drive further AI research, and contribute meaningfully to the discipline.
 
 ---
 
@@ -22,7 +22,7 @@ I’m a passionate Software Engineer specializing in **AI/ML**, currently workin
 * Optimized AI models to secure the privacy of sensitive data, ensuring confidentiality while maintaining accuracy.  
 * Enhanced the performance of customized models on healthcare data through robust preprocessing pipelines.  
 * Contributed to research papers and publications, presenting findings at conferences and workshops.  
-* **Research Interests:** Deep Learning, Computer Vision, Agentic AI, LLMs, AI in Healthcare, Explainable AI, Data Privacy, IoT  
+* **Research Interests:** Deep Learning, Computer Vision, AI in Healthcare, Explainable AI (XAI), Federated Learning, Large Language Models (LLMs), AI for Education, Agentic AI 
 
 ### Software Engineer (AI/ML)
 **TechnoNext Software Limited** | *October 2025 - Present*  
@@ -48,7 +48,7 @@ I’m a passionate Software Engineer specializing in **AI/ML**, currently workin
 | **Languages** | Python, C++, R, Java, PHP, MATLAB, SQL |
 | **ML Frameworks** | TensorFlow, PyTorch, Keras, Pandas, NumPy, Seaborn, Scikit-learn |
 | **NLP** | NLTK, spaCy, TF-IDF, VADER, Tokenization, FastAPI |
-| **Tools & Testing** | Linux, GitHub, LaTeX, Selenium, JMeter, Postman, Requirement Analysis |
+| **Tools & Testing** | Linux, GitHub, LaTeX, Google Colaboratory, Selenium, JMeter, Postman, Requirement Analysis |
 
 ---
 
@@ -56,7 +56,7 @@ I’m a passionate Software Engineer specializing in **AI/ML**, currently workin
 
 💼 **October 2025** – Secured a Software Engineer (AI/ML) position at TechnoNext Software Limited.  
 
-✔ **October 2025** – Submitted our paper *"Posture Detection: A Survey of Machine Learning and Deep Learning Approaches, Challenges, and Future Directions"* to *IEEE Open Journal of the Computer Society*.  
+✔ **October 2025** – Submitted our paper *"Posture Detection: A Survey of Machine Learning and Deep Learning Approaches, Challenges, and Future Directions"*.  
 
 🔔 **September 2025** - I am leading a research project on healthcare data privacy, tentative title : *“Privacy-Preserving Intelligence: Advance ments and Applications of Federated Learning in Healthcare Systems"*
 
