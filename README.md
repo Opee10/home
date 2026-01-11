@@ -53,6 +53,7 @@ I’m a passionate Software Engineer specializing in **AI/ML**, currently workin
 ---
 
 ## 📰 News
+✔ **December 2025** – Submitted our paper *"Towards Trustworthy Diabetic Retinopathy Detection: Multi-Dataset Training with HRDG-Net and Attention-Based Explainability"*.  
 
 💼 **October 2025** – Secured a Software Engineer (AI/ML) position at TechnoNext Software Limited.  
 
