@@ -22,7 +22,7 @@ I’m a passionate Software Engineer specializing in **AI/ML**, currently workin
 * Optimized AI models to secure the privacy of sensitive data, ensuring confidentiality while maintaining accuracy.  
 * Enhanced the performance of customized models on healthcare data through robust preprocessing pipelines.  
 * Contributed to research papers and publications, presenting findings at conferences and workshops.  
-* **Research Interests:** Deep Learning, Computer Vision, AI in Healthcare, Explainable AI (XAI), Federated Learning, Privacy-Preserving Computing, Large Language Models (LLMs), Social Computing 
+* **Research Interests:** Deep Learning, Computer Vision, AI in Healthcare, Explainable AI (XAI), Internet of Things (IoT), Privacy-Preserving Computing,  Large Language Models (LLMs), Social Computing 
 
 ### Software Engineer (AI/ML)
 **TechnoNext Software Limited** | *October 2025 - Present*  
